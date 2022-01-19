@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jeffreybanico
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align ="center">
 
-<!---
-jeffreybanico/jeffreybanico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/jeffreybanico/jeffreybanico/main/Picture/GitHub%20overview.png" style="width:300px; height:300px;"/>
+
+# Hello, I'm Jeff
+</div>
