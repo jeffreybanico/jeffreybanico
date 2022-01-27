@@ -1,6 +1,4 @@
-<div align ="center">
-
-<img src="https://raw.githubusercontent.com/jeffreybanico/jeffreybanico/main/Picture/GitHub%20overview.png" style="width:300px; height:300px;"/>
-
-# Hello, I'm Jeff
-</div>
+# Hi there, I'm Jeff
+- 🎓 A human from earth currently studying ***BS Information Technology***  
+- 💻 Inspired to become a future ***Web Developer*** and ***Data Analyst***  
+- ⚙ Currently, Im working with several projects and expand my knowledge in the field of ***Programming***
